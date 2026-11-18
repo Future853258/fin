@@ -1,0 +1,23 @@
+# 真实账单，绝不进 Git
+sample/真实账单/
+
+# Java
+target/
+*.class
+*.jar
+*.war
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# 日志
+*.log
+
+# 本地配置（如果以后放密码）
+application-local.yml
